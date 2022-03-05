@@ -9,6 +9,8 @@ public static void main(String[] args) {
 	
 	// find a particular array value
 	
+	System.out.println("for GIT");
+	
 	System.out.println("find a particular array value");
 	System.out.println(a[1]);
 	
