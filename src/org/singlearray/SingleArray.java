@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	a[0]=9;
 	a[1]=12;
 	a[2]=14;
-	System.out.println("hi github");
+	System.out.println("hi java");
 	// find a particular array value
 	
 	
