@@ -20,6 +20,7 @@ public static void main(String[] args) {
 		sum=sum+i;
 		
 				System.out.println(sum);
+				System.out.println("vanitha");
 	}
 	
 	int x = a.length;
