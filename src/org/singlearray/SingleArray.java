@@ -7,6 +7,8 @@ public static void main(String[] args) {
 	a[1]=12;
 	a[2]=14;
 	
+	System.out.println("git hub");
+	
 	// find a particular array value
 	
 	System.out.println("for GIT");
